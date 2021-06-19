@@ -1,4 +1,4 @@
-# Hi there!
+# About Me
 
 My name's Angelo Petrai. 
 I'm a 13 year old developer. 
